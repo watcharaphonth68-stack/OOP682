@@ -1,0 +1,7 @@
+id,timestamp,event_type,user,action
+1,2026-02-14 10:00:00,LOGIN,user001,Login successful
+2,2026-02-14 10:01:23,ACTION,user001,Viewed voters list
+3,2026-02-14 10:02:45,ACTION,user002,Added new voter
+4,2026-02-14 10:03:12,ACTION,user001,Exported report
+5,2026-02-14 10:04:30,ERROR,system,Database connection timeout
+6,2026-02-14 10:05:15,LOGOUT,user001,User logout
