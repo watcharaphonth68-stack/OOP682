@@ -1,13 +1,9 @@
 [project]
-name = "week-9"
+name = "nija-adventure"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.10"
-dependencies = []
-
-[tool.uv.workspace]
-members = [
-    "fastapi-lab",
-    "wk11/pygameapp",
+dependencies = [
+    "pygame>=2.6.1",
 ]
